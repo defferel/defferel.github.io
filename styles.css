@@ -1,0 +1,25 @@
+h1{
+    color: lightcoral ;
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+}
+p {
+    color: rgb(163, 64, 81);
+}
+h2{
+    color : #579951 ;
+    font-family: 'Aoboshi One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+}
+.date{
+    color : orange
+}
+
+img{
+    width: 300px;
+    height: 307px;
+}
